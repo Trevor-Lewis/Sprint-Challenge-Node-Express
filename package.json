@@ -1,0 +1,23 @@
+{
+  "name": "Sprint-Challenge-Node-Express",
+  "version": "1.0.0",
+  "description": "- Please open the `Review.md` file and answer the questions.\r - Use Node.js and Express to design and build an API that performs CRUD operations on **projects** and **actions**.",
+  "main": "knexfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trevor-Lewis/Sprint-Challenge-Node-Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trevor-Lewis/Sprint-Challenge-Node-Express/issues"
+  },
+  "homepage": "https://github.com/Trevor-Lewis/Sprint-Challenge-Node-Express#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
